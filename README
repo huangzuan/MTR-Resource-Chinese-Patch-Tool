@@ -15,6 +15,9 @@ This project modifies the Minecraft Transit Railway mod.
 Minecraft Transit Railway is licensed under the MIT License
 by its original authors.
 
+This project is not affiliated with the MTR mod authors.
+All rights to the MTR mod belong to its respective developers.
+
 使用方法
 打开.jar文件即可
 记得备份存档
@@ -26,6 +29,8 @@ by its original authors.
 请使用MTR4.0.0x
 需要 Java 17 或更高版本
 本项目会修改 MTR 模组文件。
+本项目与 MTR 模组作者无关。
+MTR 模组的所有权归原作者所有。
 
 Minecraft Transit Railway 模组由其原作者开发，
 并使用 MIT License 开源。
