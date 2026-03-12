@@ -1,0 +1,32 @@
+Usage: Simply open the .jar file.
+Remember to back up your save file.
+Important Notes: Existing trains will disappear after installation; please reconfigure the vehicles.
+This tool modifies the local MTR mod jar to replace resource files.
+
+The program DOES NOT include or redistribute the MTR mod itself.
+Users must download MTR separately.
+
+Please use MTR4.0.0x.
+
+Requires Java 17 or later.
+
+This project modifies the Minecraft Transit Railway mod.
+
+Minecraft Transit Railway is licensed under the MIT License
+by its original authors.
+
+使用方法
+打开.jar文件即可
+记得备份存档
+注意事项
+在安装完成后现有的列车会消失请重新配置车辆
+本程序仅修改本地已安装的 MTR 模组文件。
+程序不包含 MTR 模组本体。
+请用户自行下载 MTR。
+请使用MTR4.0.0x
+需要 Java 17 或更高版本
+本项目会修改 MTR 模组文件。
+
+Minecraft Transit Railway 模组由其原作者开发，
+并使用 MIT License 开源。
+
