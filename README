@@ -1,37 +1,36 @@
-Usage: Simply open the .jar file.
-Remember to back up your save file.
-Important Notes: Existing trains will disappear after installation; please reconfigure the vehicles.
-This tool modifies the local MTR mod jar to replace resource files.
+# MTR Resource Modifier Tool
 
-The program DOES NOT include or redistribute the MTR mod itself.
-Users must download MTR separately.
+## Usage / 使用方法 / 使用法
 
-Please use MTR4.0.0x.
+### English
+- Usage: Simply open the `.jar` file.  
+- Remember to back up your save file.  
+- Important Notes: Existing trains will disappear after installation; please reconfigure the vehicles.  
+- This tool modifies the local MTR mod jar to replace resource files.  
+- The program DOES NOT include or redistribute the MTR mod itself. Users must download MTR separately.  
+- Please use MTR 4.0.2～4.0.3.  
+- Requires Java 17 or later.  
+- This project modifies the Minecraft Transit Railway mod.  
+- Minecraft Transit Railway is licensed under the MIT License by its original authors.  
 
-Requires Java 17 or later.
+### 中文 / Chinese / 中国語
+- 使用方法：打开 `.jar` 文件即可  
+- 记得备份存档  
+- 注意事项：在安装完成后现有的列车会消失，请重新配置车辆  
+- 本程序仅修改本地已安装的 MTR 模组文件  
+- 程序不包含 MTR 模组本体，请用户自行下载 MTR  
+- 请使用 MTR 4.0.2～4.0.3  
+- 需要 Java 17 或更高版本  
+- 本项目会修改 MTR 模组文件  
+- Minecraft Transit Railway 模组由其原作者开发，并使用 MIT License 开源  
 
-This project modifies the Minecraft Transit Railway mod.
-
-Minecraft Transit Railway is licensed under the MIT License
-by its original authors.
-
-This project is not affiliated with the MTR mod authors.
-All rights to the MTR mod belong to its respective developers.
-
-使用方法
-打开.jar文件即可
-记得备份存档
-注意事项
-在安装完成后现有的列车会消失请重新配置车辆
-本程序仅修改本地已安装的 MTR 模组文件。
-程序不包含 MTR 模组本体。
-请用户自行下载 MTR。
-请使用MTR4.0.0x
-需要 Java 17 或更高版本
-本项目会修改 MTR 模组文件。
-本项目与 MTR 模组作者无关。
-MTR 模组的所有权归原作者所有。
-
-Minecraft Transit Railway 模组由其原作者开发，
-并使用 MIT License 开源。
-
+### 日本語 / Japanese / 日本語
+- 使用方法：`.jar` ファイルを開くだけで実行できます  
+- セーブデータのバックアップを忘れずに行ってください  
+- 注意事項：インストール後、既存の列車は消去されますので、車両を再設定してください  
+- このツールは、ローカルにインストールされた MTR モッドのリソースファイルを置き換えます  
+- 本プログラムは MTR モッド自体を含まず、再配布もしません。ユーザーは MTR を別途ダウンロードしてください  
+- MTR 4.0.2~4.0.3 を使用してください  
+- Java 17 以上が必要です  
+- 本プロジェクトは Minecraft Transit Railway モッドを変更します  
+- Minecraft Transit Railway は元の作者によって開発され、MIT ライセンスで公開されています  
