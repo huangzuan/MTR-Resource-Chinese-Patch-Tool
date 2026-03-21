@@ -9,7 +9,7 @@
 - **Function:** This tool modifies the local MTR mod jar to replace resource files.  
 - **Note:** The program DOES NOT include or redistribute the MTR mod itself. Users must download MTR separately.  
 - **MTR versions required:** 4.0.2～4.0.3  
-- **Tool versions:** v0.3.1～v1.0.1  
+- **Tool versions:** v0.3.1～v1.0.1-hotfix1  
 - **Java requirement:** Java 17 or later.  
 - **License:** This project modifies the Minecraft Transit Railway mod. Minecraft Transit Railway is licensed under the MIT License by its original authors.  
 
@@ -20,7 +20,7 @@
 - **功能：** 本程序仅修改本地已安装的 MTR 模组文件  
 - **说明：** 程序不包含 MTR 模组本体，请用户自行下载 MTR  
 - **MTR 模组版本要求：** 4.0.2～4.0.3  
-- **工具版本：** v0.3.1～v1.0.1  
+- **工具版本：** v0.3.1～v1.0.1-hotfix1  
 - **Java 需求：** Java 17 或更高版本  
 - **许可：** 本项目会修改 MTR 模组文件，Minecraft Transit Railway 模组由其原作者开发，并使用 MIT License 开源  
 
