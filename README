@@ -2,35 +2,88 @@
 
 ## Usage / 使用方法 / 使用法
 
+---
+
 ### English
+
 - **Usage:** Simply open the `.jar` file.  
 - **Remember:** Back up your save file.  
 - **Important Notes:** Existing trains will disappear after installation; please reconfigure the vehicles.  
 - **Function:** This tool modifies the local MTR mod jar to replace resource files.  
 - **Note:** The program DOES NOT include or redistribute the MTR mod itself. Users must download MTR separately.  
+
 - **MTR versions required:** 4.0.2～4.0.3  
-- **Tool versions:** v0.3.1～v1.0.1-hotfix1  
+- **Tool versions:** v0.3.1～v1.0.2 
+
 - **Java requirement:** Java 17 or later.  
-- **License:** This project modifies the Minecraft Transit Railway mod. Minecraft Transit Railway is licensed under the MIT License by its original authors.  
+
+### ⚠️ Notice
+
+- ✅ Fully supports Fabric version of MTR  
+- ⚠️ Forge version is theoretically supported, but only Fabric has been tested  
+
+
+### Download MTR
+
+- Modrinth  
+- CurseForge  
+- GitHub  
+
+---
 
 ### 中文 / Chinese / 中国語
+
 - **使用方法：** 打开 `.jar` 文件即可  
 - **注意备份存档**  
 - **注意事项：** 安装完成后现有的列车会消失，请重新配置车辆  
 - **功能：** 本程序仅修改本地已安装的 MTR 模组文件  
 - **说明：** 程序不包含 MTR 模组本体，请用户自行下载 MTR  
+
 - **MTR 模组版本要求：** 4.0.2～4.0.3  
-- **工具版本：** v0.3.1～v1.0.1-hotfix1  
+- **工具版本：** v0.3.1～v1.0.2
 - **Java 需求：** Java 17 或更高版本  
-- **许可：** 本项目会修改 MTR 模组文件，Minecraft Transit Railway 模组由其原作者开发，并使用 MIT License 开源  
+
+### ⚠️ 注意事项
+
+- ✅ 完全支持 Fabric 版本 MTR  
+- ⚠️ Forge 理论支持，但仅在 Fabric 环境下进行过测试  
+
+
+### 下载 MTR
+
+- Modrinth  
+- CurseForge  
+- GitHub  
+
+---
 
 ### 日本語 / Japanese / 日本語
+
 - **使用方法：** `.jar` ファイルを開くだけで実行できます  
 - **セーブデータのバックアップを忘れずに行ってください**  
 - **注意事項：** インストール後、既存の列車は消去されますので、車両を再設定してください  
 - **機能：** このツールは、ローカルにインストールされた MTR モッドのリソースファイルを置き換えます  
-- **注意：** 本プログラムは MTR モッド自体を含まず、再配布もしません。ユーザーは MTR を別途ダウンロードしてください  
+- **注意：** 本プログラムは MTR モッド自体を含まず、再配布もしません。ユーザーは別途ダウンロードしてください  
+
 - **MTR バージョン：** 4.0.2～4.0.3 必須  
-- **ツールバージョン：** v0.3.1～v1.0.1  
+- **ツールバージョン：** v0.3.1～v1.0.2 
 - **Java 17 以上が必要です**  
-- **ライセンス：** 本プロジェクトは Minecraft Transit Railway モッドを変更します。Minecraft Transit Railway は元の作者によって開発され、MIT ライセンスで公開されています  
+
+### ⚠️ 注意
+
+- ✅ Fabric 版 MTR を完全サポート  
+- ⚠️ Forge は理論上対応していますが、Fabric 環境でのみテスト済みです  
+
+
+### MTR ダウンロード
+
+- Modrinth  
+- CurseForge  
+- GitHub  
+
+---
+
+## License
+
+This project modifies the Minecraft Transit Railway mod.  
+MTR is developed by its original authors and licensed under the MIT License.
